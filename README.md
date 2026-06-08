@@ -2,8 +2,8 @@
 
 > **Global Solution 2026 | FIAP | Space Connect**  
 > Disciplina: Dynamic Programming
-> Integrantes: Felipe Carlos Abreu (RM559476) | Gabriel dos Santos Teixeira (RM97233)
-
+---
+### Integrantes: Felipe Carlos Abreu (RM559476) | Gabriel dos Santos Teixeira (RM97233)
 ---
 
 ## 📌 Sobre o Projeto
