@@ -2,6 +2,7 @@
 
 > **Global Solution 2026 | FIAP | Space Connect**  
 > Disciplina: Dynamic Programming
+> Integrantes: Felipe Carlos Abreu (RM559476) | Gabriel dos Santos Teixeira (RM97233)
 
 ---
 
@@ -172,11 +173,3 @@ orbitalguard/
 - **Subproblemas ótimos**: a menor latência até qualquer nó intermediário é parte da solução global
 - **Reconstrução do caminho** via rastreamento de predecessores
 - **Relaxamento de arestas**: atualização de distâncias apenas quando encontramos um caminho melhor
-
----
-
-## 👨‍💻 Autor
-
-**Felipe**  
-Curso de Tecnologia — FIAP  
-Global Solution 2026 | Space Connect
